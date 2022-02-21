@@ -18,6 +18,22 @@ body {
     height: 50px;
 }
 
+.h70 {
+    height: 70px;
+}
+
+.h90 {
+    height: 90px;
+}
+
+.h100 {
+    height: 100px;
+}
+
+.w90 {
+    width: 90%;
+}
+
 .bg-blue {
     background-color: blue;
     color: white;
@@ -25,6 +41,16 @@ body {
     line-height: 50px;
 }
 
+.bg-green {
+    background-color: rgb(47, 207, 82);
+    color: white;
+    text-align: center;
+    line-height: 80px;
+}
+
+.row {
+    padding: 10px;
+}
 
 .border > * {
     border: 1px solid white;
