@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* utilities */
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-brown {
+    background-color: #89482a;
+}
+
+.bg-red {
+    background-color: #d62229;
+}
+
+.bg-yellow {
+    background-color: #ffe80a;
+}
+
+.bg-pink {
+    background-color: #f6c595;
+}
+
+.bg-blue {
+    background-color: #5554a0;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.h50 {
+    height: 50px;
+}
+
+
+
+.border {
+    border: 1px solid white;
+}
+
