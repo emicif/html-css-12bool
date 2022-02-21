@@ -10,8 +10,10 @@ body {
 
 /* utilities */
 
-.flex {
+.row {
     display: flex;
+    flex-direction: row;
+
 }
 
 .h50 {
@@ -48,7 +50,7 @@ body {
     line-height: 80px;
 }
 
-.row {
+.padding {
     padding: 10px;
 }
 
