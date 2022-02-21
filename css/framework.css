@@ -97,3 +97,39 @@
 .col-offset-11 {
     margin-left: calc((100% / 12) * 11)
 }
+
+
+
+/* alignment flex */
+
+.justify-content-start {
+    justify-content: flex-start;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-content-end {
+    justify-content: flex-end;
+}
+
+.justify-content-around {
+    justify-content: space-around;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.align-self-top {
+    align-items: flex-start;
+}
+
+.align-self-center {
+    align-self: center;
+}
+
+.align-self-bottom {
+    align-self: flex-end;
+}
